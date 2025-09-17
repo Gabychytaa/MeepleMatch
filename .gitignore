@@ -1,0 +1,5 @@
+# Ignore test notebooks
+*.ipynb
+
+# Cache files
+__pycache__/
