@@ -97,6 +97,6 @@ If you prefer not to run the application locally, MeepleMatch is also available 
 - **Advanced filtering options:**  
   Planned features include additional filters for game **genre**, **player count**, and **playing time**, allowing for more personalized recommendations.
 
-  - **Deployment improvements:**  
+- **Deployment improvements:**  
   The current Streamlit deployment struggles with users with ~10 rated games and may crash. Planning to redeploy on Azure for better performance and reliability.
 
